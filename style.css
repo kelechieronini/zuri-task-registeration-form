@@ -4,7 +4,7 @@
     padding: 0;
   }
   body {
-    background-image: url(/img/bg-intro-desktop.png);
+    background-image: url(img/bg-intro-desktop.png);
     background-color: hsl(0, 100%, 74%);
     background-repeat: no-repeat;
     background-size: cover;
@@ -130,7 +130,7 @@
 
   @media only screen and (min-width: 360px) and (max-width: 800px) {
     body{
-      background-image: url(/img/bg-intro-mobile.png);
+      background-image: url(img/bg-intro-mobile.png);
     }
     main {
       display: block;
